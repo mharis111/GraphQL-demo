@@ -10,6 +10,7 @@ Videos demonstrate how the data has been retrieved from DataCite and ORKG in a f
 Note: The federated endpoint will be deployed soon on ORKG
 
 Code:
+
 [ORKG GraphQL endpoint](https://gitlab.com/TIBHannover/orkg/orkg-graphql)
 
 [ORKG-DataCite federated endpoint](https://gitlab.com/TIBHannover/orkg/graphql-federation)
