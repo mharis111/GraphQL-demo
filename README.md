@@ -1,7 +1,7 @@
 # GraphQL-demo
 Videos demonstrate how the data has been retrieved from DataCite and ORKG in a federated manner.
 
-[ORKG GraphQL endpoint](https://www.dropbox.com/s/hoc8pndjlm4vdjm/ORKG-GraphQL.webm?dl=0)
+[ORKG GraphQL endpoint](https://www.dropbox.com/s/xojblgtl2zke0jl/ORKG-GraphQL.mp4?dl=0)
 
 [DataCite GraphQL endpoint](https://www.dropbox.com/s/acw90zxk6csz7s8/DataCite-GraphQL.webm?dl=0)
 
